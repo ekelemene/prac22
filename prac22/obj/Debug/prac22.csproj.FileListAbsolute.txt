@@ -1,7 +1,0 @@
-D:\Новая папка\практикумы\prac22\bin\Debug\prac22.exe.config
-D:\Новая папка\практикумы\prac22\bin\Debug\prac22.exe
-D:\Новая папка\практикумы\prac22\bin\Debug\prac22.pdb
-D:\Новая папка\практикумы\prac22\obj\Debug\prac22.csproj.AssemblyReference.cache
-D:\Новая папка\практикумы\prac22\obj\Debug\prac22.csproj.CoreCompileInputs.cache
-D:\Новая папка\практикумы\prac22\obj\Debug\prac22.exe
-D:\Новая папка\практикумы\prac22\obj\Debug\prac22.pdb
